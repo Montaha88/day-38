@@ -1,4 +1,29 @@
-.container{
-    color: aqua;
-    height: auto;
+.f-div{
+    background-color: blue;
+    height: 380px;
+    width: 1300px;
+    margin-left: 0;
+    padding: 120px;
+    display: grid;
+    justify-content: center;
+    
+    
 }
+.btn-f{
+    
+    margin-left: 800px;
+    margin-top: 10px;
+    margin-bottom: 450px;
+    
+}
+.h1{
+    margin-right: 350px;
+    margin-left: 30px;
+    padding-top: 8px;
+}
+.h5{
+    margin-right: 500px;
+    padding: 8px;
+    margin: 30px;
+}
+
