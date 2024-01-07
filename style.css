@@ -4,16 +4,16 @@
     width: 1300px;
     margin-left: 0;
     padding: 120px;
-    display: grid;
+    display: flex;
     justify-content: center;
     
     
 }
 .btn-f{
     
-    margin-left: 800px;
+    margin-left: 200px;
     margin-top: 10px;
-    margin-bottom: 450px;
+    margin-bottom: 350px;
     
 }
 .h1{
@@ -26,4 +26,6 @@
     padding: 8px;
     margin: 30px;
 }
-
+.btn-s{
+    margin-left: 550px;
+}
